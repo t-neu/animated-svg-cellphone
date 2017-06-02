@@ -8,8 +8,8 @@ A sleek modern stroke css animation effect.
 
 ## Built With
 
-HTML
-SVG
+HTML<br />
+SVG<br />
 CSS Animations
 
 ## Authors
