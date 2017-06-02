@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{fill:none;stroke:#999999;stroke-miterlimit:10;}
+	.st0{opacity:0;fill:none;stroke:#999999;stroke-width:0.25;stroke-miterlimit:3; stroke-dasharray: 2000; animation: dash 1s forwards; webkit-animation-delay: 5s; animation-delay: 5s;}
+	.st1{opacity:0;fill:none;stroke:#999999;stroke-width:0.25;stroke-miterlimit:10; stroke-dasharray: 2500; animation: dash 1s forwards; webkit-animation-delay: 1s; animation-delay: 1s;}
+	.st2{opacity:0;fill:none;stroke:##999999;stroke-width:0.5;stroke-miterlimit:10; stroke-dasharray: 1000; animation: stem 3s forwards; webkit-animation-delay: 2s; animation-delay: 2s;}
+	@keyframes dash {
+	  0% {
+        opacity: 0;
+		stroke-dashoffset: 2000;
+	  }
+	  1% {
+	  	opacity: 1;
+	  }
+	  100% {
+	  	opacity:1;
+		stroke-dashoffset: 0;
+	  }
+	}
+	@keyframes text {
+	  0% {
+        opacity: 0;
+		stroke-dashoffset: 0;
+	  }
+	  1% {
+	  	opacity: 1;
+	  }
+	  100% {
+	  	opacity:1;
+		stroke-dashoffset: 1000;
+	  }
+	}
+	@keyframes stem {
+	  0% {
+        opacity: 0;
+		stroke-dashoffset: 1000;
+	  }
+	  1% {
+	  	opacity: 1;
+	  }
+	  100% {
+	  	opacity:1;
+		stroke-dashoffset: 0;
+	  }
+	}
+</style>
+<g id="Layer_2" class="st0">
+	<rect x="-3" class="st1" width="304" height="310"/>
+</g>
+<g id="Layer_1">
+	<g>
+		<path class="st2" d="M199.3,249.3h-98.5c-5.2,0-9.4-4.2-9.4-9.4V60.1c0-5.2,4.2-9.4,9.4-9.4h98.5c5.2,0,9.4,4.2,9.4,9.4v179.7
+			C208.7,245,204.4,249.3,199.3,249.3z"/>
+		<rect x="93.5" y="73.2" class="st2" width="112.9" height="154.2"/>
+		<path class="st2" d="M154.8,68.4h-9.7c-1.4,0-2.6-1.2-2.6-2.6v0c0-1.4,1.2-2.6,2.6-2.6h9.7c1.4,0,2.6,1.2,2.6,2.6v0
+			C157.4,67.2,156.2,68.4,154.8,68.4z"/>
+		<circle class="st2" cx="106.8" cy="58" r="1.9"/>
+		<path class="st2" d="M166.2,59.1h-32.5c-0.8,0-1.5-0.7-1.5-1.5v0c0-0.8,0.7-1.5,1.5-1.5h32.5c0.8,0,1.5,0.7,1.5,1.5v0
+			C167.7,58.4,167,59.1,166.2,59.1z"/>
+	</g>
+</g>
+</svg>
